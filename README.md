@@ -1,2 +1,2 @@
 # LeetCodeSolutions
-Solutions for LeetCode problems in Python With Question, Time and Space Complexity.
+Solutions for LeetCode problems in Python with time and space Complexity.
